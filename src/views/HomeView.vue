@@ -19,7 +19,7 @@ export default {
     <!--Header-->
     <section>
       <img 
-        src="images/profil.jpeg" 
+        src="/src/assets/images/profil.jpeg" 
         alt="profil" 
         width="100" 
         height="150"
